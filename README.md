@@ -37,7 +37,7 @@ repositories{
   jcenter()
 }
 </pre>
-<h6>dependencies 선언</h6>
+<h6>2.4 dependencies 선언</h6>
 - 프로젝트 개발에 필요한 의존성들을 선언하는 곳
 - 특정버전을 명시하지 않아야 org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}의 버전을 따라감
 <pre>
